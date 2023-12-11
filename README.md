@@ -1,2 +1,2 @@
-# Pokedex.github.io
-Trabalho do 4° bimestre feito com Arthur Batista Bonvecchio
+# Projeto-Pokedex.github.io
+Repositório do Projeto Pokedex, Realizado utilizando HTML, CSS e JS.
